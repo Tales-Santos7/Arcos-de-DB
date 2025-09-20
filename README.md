@@ -1,7 +1,7 @@
 # Arcos-de-DB
 Projeto que apresenta todos os arcos da serie japonesa animada "anime" DRAGON BALL!🐉
 
-[<img src="./src/imagens/TalaPrj.gif" alt="gif da dela inicial do projeto 'Projeto-arcos-de-DB'">]
+<img src="/src/imagens/TalaPrj.gif" alt="gif da dela inicial do projeto 'Projeto-arcos-de-DB'">
 
 ## Tecnologias utilizadas
 - HTML
